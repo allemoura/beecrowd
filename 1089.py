@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# link questão: https://judge.beecrowd.com/pt/problems/view/1089
 def contar_picos(amostras):
     picos = 0
     n = len(amostras)

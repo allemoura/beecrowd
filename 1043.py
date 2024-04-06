@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#link questão: https://judge.beecrowd.com/pt/problems/view/1043
 # Função para verificar se três medidas formam um triângulo
 def eh_triangulo(A, B, C):
     # Verifica se a medida A é menor que a soma das medidas B e C

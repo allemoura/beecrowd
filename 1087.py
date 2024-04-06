@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# link questão: https://judge.beecrowd.com/pt/problems/view/1087
 # Enquanto não for informado um conjunto de coordenadas de saída e destino igual a (0, 0, 0, 0)
 while True:
     # Lê as coordenadas de entrada

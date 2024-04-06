@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# link questão: https://judge.beecrowd.com/pt/problems/view/1036
 import math
 # recebe valores de entrada
 nums = input().split()
